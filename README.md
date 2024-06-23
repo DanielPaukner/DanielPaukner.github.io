@@ -1,1 +1,1 @@
-<object data="test.pdf" width="900" height="600" type='application/pdf'></object>
+<object data="test.pdf" width="990" height="660" type='application/pdf'></object>
